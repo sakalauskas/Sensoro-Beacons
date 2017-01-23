@@ -12,9 +12,9 @@ Since there are almost no information about this topic, I decided to publish ala
 
 # Why buy Sensoro beacons? Not Estimote or other beacons?
 
-I would have bought Estimote or kontakt.io, but their shipping and import taxes are too much and I only needed one for development and experimentation.
+I would have bought Estimote, but their shipping and import taxes are too high and I only needed one for my R&D.
 
-Sensoro, well, they have replacable batteries, are relatively cheap and have the support for Eddystone EID. This is why I sticked with them. Sadly they have a lot of problems, but at least I have found solutions for all of them at the time of writing. 
+Sensoro, well, they have replacable batteries, are relatively cheap and have the support for Eddystone EID. This is why I sticked with them. Sadly they have a lot of problems, but at least I have found solutions for all of them at the time of writing this README.md. 
 
 As well, I can configure the Eddystone EID rotation exponent to whatever I want (e.g. rotate ids every second) which is very convenient.
 
