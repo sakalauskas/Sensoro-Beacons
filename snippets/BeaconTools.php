@@ -6,7 +6,7 @@ use Symfony\Component\Process\Process;
  * This class serves as a guide to implement your own 
  * Trusted resolver instead of using Google Proximity API, 
  * which seems broken and limited.
- * Note: requires Symphony\Process library to call the eidtools.py python script!
+ * Note: requires Symfony\Process library to call the eidtools.py python script!
  * @author Laurynas Sakalauskas - 2017-01-05
  */
 class BeaconTools {
